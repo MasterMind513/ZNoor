@@ -15,7 +15,13 @@ def line_chack_dote():
 				sys.stdout.write("\r[*] Creating TNL Internet File " + t)
 	sys.stdout.flush()
 	time.sleep(0.1)
- 
+ logo=("""
+  .d8b.  db   dD d888888b d8b   db  d888b 
+ d8' `8b 88 ,8P'   `88'   888o  88 88' Y8b
+ 88ooo88 88,8P      88    88V8o 88 88       \033[1;34m𝐏 \033[1;37m
+ 88~~~88 88`8b      88    88 V8o88 88  ooo.\033[1;31m 𝐑\033[1;37m
+ 88   88 88 `88.   .88.   88  V888 88. ~8~  \033[1;35m𝐎 \033[1;37m
+ YP   YP YP   YD Y888888P VP   V8P  Y888P   
 ----------------------------------------------
  Author    : Zahida Noor
  Github    : MasterMind513
